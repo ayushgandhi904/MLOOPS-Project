@@ -1,2 +1,2 @@
-# MlOOPS-Project
-End to end MLOOPS on red wine quality prediction
+# MLOOPS-Project
+End-to-end MLOOPS on red wine quality prediction
