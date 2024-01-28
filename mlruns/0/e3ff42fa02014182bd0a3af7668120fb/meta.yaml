@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/New%20MLOOPS%20Project/MLOOPS-Project/mlruns/0/e3ff42fa02014182bd0a3af7668120fb/artifacts
+end_time: 1706422622659
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e3ff42fa02014182bd0a3af7668120fb
+run_name: learned-shrew-861
+run_uuid: e3ff42fa02014182bd0a3af7668120fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706422619325
+status: 3
+tags: []
+user_id: Ayush Gandhi
